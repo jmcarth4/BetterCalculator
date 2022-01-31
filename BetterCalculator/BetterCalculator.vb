@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2020
 'Better Calculator
-'https://g
+'https://github.com/jmcarth4/BetterCalculator
 
 Option Explicit On
 Option Strict On
